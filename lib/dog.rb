@@ -6,7 +6,7 @@ def intialize(dog)
 
 end
   
-def clear_all
+def @clear_all
   @@all = []
 end
   
