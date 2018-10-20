@@ -6,6 +6,8 @@ def intialize(dog)
 
 end
   
-def clear  
+def clear_all
+  @@all = []
+end
   
 end ##CLASS END 
